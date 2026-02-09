@@ -8,4 +8,5 @@ class CustomColors {
   static final Color grey = Color(0xff6F7384);
   static final Color lightGrey = Color(0xffF4F5FD);
   static final Color green = Color(0xff08E488);
+  static final Color orange = Color.fromARGB(255, 228, 147, 8);
 }
